@@ -1,0 +1,73 @@
+[
+	{
+		"nombreEmp": "Blusas Dama",
+		"nombre": "Luz Marina Roldán",
+		"producto": "Blusas clásicas para dama",
+		"contacto": "3127029980",
+		"redes": "https://www.instagram.com/blusaLuzMa"
+	},
+	{
+		"nombreEmp": "JLY Confecciones",
+		"nombre": "July",
+		"producto": "Chaquetas y overol en antifluido",
+		"contacto": "3042021959",
+		"redes": "https://www.instagram.com/jly.confecciones.2017"
+	},
+	{
+		"nombreEmp": "Moriarte",
+		"nombre": "Maria",
+		"producto": "Manualidades en crochet",
+		"contacto": "3195281804",
+		"redes": "https://www.instagram.com/moriarte12"
+	},
+	{
+		"nombreEmp": "Danartes Manualidades",
+		"nombre": "Andrea Fresneda",
+		"producto": "Desayunos sorpresa, detalles",
+		"contacto": "3042170272",
+		"redes": "https://www.instagram.com/danartes_manualidades"
+	},
+    {
+		"nombreEmp": "Gelatinas Hellen",
+		"nombre": "María Sanchez",
+		"producto": "Gelatinas, postres saludables",
+		"contacto": "3202278770",
+		"redes": "https://www.instagram.com/gelatinashellen"
+	},
+    {
+		"nombreEmp": "Jabones Academy",
+		"nombre": "Yacky",
+		"producto": "Enseñanza del arte de la Jaboneria artesanal",
+		"contacto": "3124139950",
+		"redes": "https://www.jabonesacademy.com/"
+	},
+    {
+		"nombreEmp": "SuperDeli Carolita",
+		"nombre": "Beatriz Elena Ramirez",
+		"producto": "Mantequilla natural Guee",
+		"contacto": "3102118570",
+		"redes": "https://www.instagram.com/superdelicarolita"
+	},
+    {
+		"nombreEmp": "FraganciayTiempo",
+		"nombre": "Alba Rincón",
+		"producto": "Perfumeria y relojeria original importada",
+		"contacto": "3156168180",
+		"redes": "https://www.instagram.com/fraganciaytiempo"
+	},
+    {
+		"nombreEmp": "Cook INC Catering y eventos",
+		"nombre": "Patricia Bernal",
+		"producto": "Tortas, postres, cupcakes",
+		"contacto": "3176829046",
+		"redes": "https://www.instagram.com/cookinccateringyeventos"
+	},
+    {
+		"nombreEmp": "Chemar Decor",
+		"nombre": "Miguel Hernández",
+		"producto": "Trofeos, placas de reconocimiento, condecoraciones",
+		"contacto": "3138697072",
+		"redes": "https://www.instagram.com/chemar.decor.sas"
+	}
+
+]

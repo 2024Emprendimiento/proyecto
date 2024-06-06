@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylus.css" type="text/css" /> 
+    <title>Emprendimientos</title>
+</head>
+
+<body>
+    <div class="container">
+        <!--Emprendedoras-->
+        <form id="frmEmprendedores">
+            <h2>Registrar Emprendedores</h2>
+            <hr>
+            <div>
+                <label for="nombreEmp">Nombre del Emprendimiento:</label>
+                <input type="text" id="nombreEmp" name="nombreEmp" />
+                <br>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" />
+                <br>
+                <label for="cedula">Producto:</label>
+                <input type="text" id="producto" name="producto" />
+                <br>
+                <label for="contacto">Contacto:</label> 
+                <input type="text" id="contacto" name="contacto" />
+                <br>
+                <label for="redes">Redes Sociales "Instagram":</label>
+                <input type="text" id="redes" name="redes" />
+                <br>
+                <label>Directorio emprendimientos Localidad Suba:</label>
+                <select name="directorio" id="directorioEmp" required>
+                    <option value="Blusas">Blusas</option>
+                    <option value="Chaquetas">Chaquetas</option>
+                    <option value="Crochet">Crochet</option>
+                    <option value="Desayunos sorpresa">Desayunos sorpresa</option>
+                    <option value="Gelatinas">Gelatinas</option>
+                    <option value="Jabones artesanales">Jabones artesanales</option>
+                    <option value="Mantequilla">Mantequilla</option>
+                    <option value="Perfumeria">Perfumeria</option>
+                    <option value="Relojeria">Relojeria</option>
+                    <option value="Tortas">Tortas</option>
+                </select>
+            </div>
+            <button id="btnSubmitDr" type="submit">Registrar Emprendimiento</button>
+        </form>
+
+        <div class="listado">
+            Listado Emprendimientos
+            <div id="listaEmprendimiento"></div>
+        </div>
+    </div>
+    <script src="emprendedores.js"></script>
+    
+</body>
+
+</html>
